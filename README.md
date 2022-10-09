@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dawid</h1>
 <h3 align="center">I'm a student. I'm on the IT profile. Mainly I'm in to web development. He wants to be fullstuck in the future</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darkspine433&label=Profile%20views&color=0e75b6&style=flat" alt="darkspine433" /> </p>
-
-
 - 🌱 I’m currently learning **Nuxt3, Node**
 
 - 👨‍💻 All of my projects are available at [https://darkspine.netlify.app/](https://darkspine.netlify.app/)
@@ -28,4 +25,4 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/DarkSpine"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="DarkSpine" /></a><a href="https://ko-fi.com/darkspine"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="darkspine" /></a></p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=darkspine433&label=Profile%20views&color=0e75b6&style=flat" alt="darkspine433" /> </p>
