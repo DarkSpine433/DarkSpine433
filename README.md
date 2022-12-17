@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Nuxt3, Node**
 
-- 👨‍💻 All of my projects are available at [https://darkspine.netlify.app/](https://darkspine.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://darkspine.online](https://darkspine.online)
 
 - 📫 How to reach me **dawidkonopiaty@gmail.com**
 
