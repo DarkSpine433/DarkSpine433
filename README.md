@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dawid</h1>
-<a href="https://github.com/PracowniaRepo"><h2>My Other Account</h2></a>
+<a href="https://github.com/PracowniaRepo" target="blank" ><h2>My Other Account</h2></a>
 <h3 align="center">I'm a student. I'm on the IT profile. Mainly I'm in to web development. I wants to be fullstuck in the future</h3>
 
 - 🌱 I’m currently learning **Nuxt3, Node, PHP**
