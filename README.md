@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dawid</h1>
-<h3 align="center">I'm a student. I'm on the IT profile. Mainly I'm in to web development. He wants to be fullstuck in the future</h3>
+<a href="https://github.com/PracowniaRepo"><h2>My Other Account</h2></a>
+<h3 align="center">I'm a student. I'm on the IT profile. Mainly I'm in to web development. I wants to be fullstuck in the future</h3>
 
-- 🌱 I’m currently learning **Nuxt3, Node**
+- 🌱 I’m currently learning **Nuxt3, Node, PHP**
 
 - 👨‍💻 All of my projects are available at [https://darkspine.online](https://darkspine.online)
 
