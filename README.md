@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dawid</h1>
 <h3 align="center">Road To Full-Stack</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darkspine433&label=Profile%20views&color=0e75b6&style=flat" alt="darkspine433" /> </p>
-
-<a href="https://github.com/PracowniaRepo" target="blank">My Other Account</a>-My Project for School
+<h3><a href="https://github.com/PracowniaRepo" target="blank">My Other Account</a>-My Project for School</h3>
 
 - 👨‍💻 All of my projects are available at [https://darkspine.online](https://darkspine.online)
 
@@ -27,3 +25,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darkspine433&" alt="darkspine433" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=darkspine433&label=Profile%20views&color=0e75b6&style=flat" alt="darkspine433" /> </p>
