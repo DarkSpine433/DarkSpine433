@@ -5,8 +5,6 @@
 
 <a href="https://github.com/PracowniaRepo" target="blank">My Other Account</a>-My Project for School
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://darkspine.online](https://darkspine.online)
 
 - 📫 How to reach me **dawidkonopiaty@gmail.com**
