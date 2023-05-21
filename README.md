@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dawid</h1>
-<h3 align="center">Road To Full-Stack</h3>
+<h2 align="center"><i>Road To Full-Stack</i></h2>
 
 <h3><a href="https://github.com/PracowniaRepo" target="blank"><B>PracowniaRepo</B></a><--School Project's</h3>
   
