@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dawid</h1>
 <h3 align="center">Road To Full-Stack</h3>
 
-<h3><a href="https://github.com/PracowniaRepo" target="blank"><B>PracowniaRepo</B></a><--SCHOOL PROJECT's</h3>
-
-- 👨‍💻 All of my projects are available at [https://darkspine.online](https://darkspine.online)
-
+<h3><a href="https://github.com/PracowniaRepo" target="blank"><B>PracowniaRepo</B></a><--School Project's</h3>
+  
 - 📫 How to reach me **dawidkonopiaty@gmail.com**
+  
+- 👨‍💻 All of my projects are available at [https://darkspine.online](https://darkspine.online)
 
 - ⚡ Fun fact **In addition to programming, he is involved in editing videos and exercises**
 
