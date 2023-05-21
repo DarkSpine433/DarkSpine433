@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dawid</h1>
 <h3 align="center">Road To Full-Stack</h3>
 
-<h3><a href="https://github.com/PracowniaRepo" target="blank">PracowniaRepo</a><--ACCOUNT FOR STORAGE SCHOOL PROJECT's</h3>
+<h3><a href="https://github.com/PracowniaRepo" target="blank">PracowniaRepo</a><--SCHOOL PROJECT's</h3>
 
 - 👨‍💻 All of my projects are available at [https://darkspine.online](https://darkspine.online)
 
