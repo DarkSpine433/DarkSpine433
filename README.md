@@ -3,7 +3,7 @@
 
 <h3><a href="https://github.com/DarkSpine-School-Projects" target="blank"><B>PracowniaRepo</B></a> <--School Project's</h3>
   
-- 📫 How to reach me **dawidkonopiaty@gmail.com**
+- 📫 How to reach me just Write To Me on <a href="https://www.linkedin.com/in/dawid-konopiaty-667531169/">LinkedIn</a>
   
 - 👨‍💻 All of my projects are available at [https://darkspine.online](https://darkspine.online)
 
