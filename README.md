@@ -6,12 +6,12 @@
 
 ###
 
-<h3 align="left"><a href="https://github.com/DarkSpine-School-Projects">PracowniaRepo</a> <--School Project's</h3>
+<h3 align="left"><a href="https://github.com/DarkSpine-School-Projects" target="_blank">PracowniaRepo</a> <--School Project's</h3>
 <br/>
 
 ###
 
-<p align="left">📩 How to Contact with me? Just Write To Me on LinkedIn<br><br>👨‍💻 All of my projects are available at <a href="https://darkspine.vercel.app">https://darkspine.vercel.app</a><br><br>⚡ Fun fact In addition to programming, he is involved in editing videos and exercises<br><br>📫 My E-mail: dawidkonopiaty@gmail.com</p>
+<p align="left">📩 How to Contact with me? Just Write To Me on LinkedIn<br><br>👨‍💻 All of my projects are available at <a href="https://darkspine.vercel.app" target="_blank">https://darkspine.vercel.app</a><br><br>⚡ Fun fact In addition to programming, he is involved in editing videos and exercises<br><br>📫 My E-mail: dawidkonopiaty@gmail.com</p>
 
 ###
 <br/>
