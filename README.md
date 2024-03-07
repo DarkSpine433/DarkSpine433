@@ -14,7 +14,7 @@
 <p align="left">📩 How to Contact with me? Just Write To Me on LinkedIn<br><br>👨‍💻 All of my projects are available at <a href="https://darkspine.vercel.app">https://darkspine.vercel.app</a><br><br>⚡ Fun fact In addition to programming, he is involved in editing videos and exercises<br><br>📫 My E-mail: dawidkonopiaty@gmail.com</p>
 
 ###
-
+<br/>
 <h2 align="left">Current Stack:</h2>
 
 ###
@@ -70,7 +70,7 @@
 </div>
 
 ###
-
+<br/>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DarkSpine433&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
