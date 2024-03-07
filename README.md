@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left"><a href="https://github.com/DarkSpine-School-Projects">PracowniaRepo</a> <--School Project's</h2>
+<h3 align="left"><a href="https://github.com/DarkSpine-School-Projects">PracowniaRepo</a> <--School Project's</h2>
 
 ###
 
