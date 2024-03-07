@@ -5,7 +5,7 @@
 <img align="right" height="246" src="https://i.pinimg.com/originals/2b/87/8f/2b878fc08878b8673b9a942a8f5fac55.gif"  />
 
 ###
-<br/>
+
 <h3 align="left"><a href="https://github.com/DarkSpine-School-Projects">PracowniaRepo</a> <--School Project's</h3>
 <br/>
 
