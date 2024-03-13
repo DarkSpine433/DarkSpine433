@@ -1,44 +1,30 @@
 <h1 align="left">Hi 👋! My name is Dawid and I'm a Student/Programmer, from Poland</h1>
 
 ###
-
-<img align="right" height="246" src="https://i.pinimg.com/originals/2b/87/8f/2b878fc08878b8673b9a942a8f5fac55.gif"  />
-
-###
-
-<h3 align="left"><a href="https://github.com/DarkSpine-School-Projects" target="_blank">PracowniaRepo</a> <--School Project's</h3>
 <br/>
-
-###
-
-<p align="left">📩 How to Contact with me? Just Write To Me on LinkedIn<br><br>👨‍💻 All of my projects are available at <a href="https://darkspine.vercel.app" target="_blank">https://darkspine.vercel.app</a><br><br>⚡ Fun fact In addition to programming, I edit videos, exercise and trade<br><br>📫 My E-mail: dawidkonopiaty@gmail.com</p>
+<p>
+  <span>
+    <img align="right" height="240" src="https://i.pinimg.com/originals/2b/87/8f/2b878fc08878b8673b9a942a8f5fac55.gif"  />
+  </span>
+    
+  <span>
+  <h3><a href="https://github.com/DarkSpine-School-Projects" target="_blank">PracowniaRepo</a> <--School Project's</h3>
+  </span>
+  
+  <span align="left">
+      👨‍💻 My Own Website <a href="https://darkspine.vercel.app" target="_blank">https://darkspine.vercel.app</a>
+    <br><br>
+      ⚡ Fun fact In addition to programming, I edit videos, exercise and trade
+    <br><br>
+      📫 My E-mail: dawidkonopiaty@gmail.com
+  </span>
+</p>
 
 ###
 <br/>
-<h2 align="left">Current Stack:</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
-
-###
-
 <h2 align="left">My Knowledge:</h2>
 
 ###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
@@ -71,13 +57,36 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
    <br/>
    <br/>
-   <br/>
-   <br/>
 </div>
 
 ###
-<h2>How to reach me:</h2>
+
+<h3 align="left">Current Stack:</h3>
+
+###
+
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
+
+
+<br/>
+
+###
+<hr /><br/>
+<h2 align="center">How to reach me:</h2>
+  
+<div align="center">
   <a href="mailto:dawidkonopiaty@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
@@ -88,12 +97,5 @@
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
   </a>
 </div>
-
-
-###
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DarkSpine433.DarkSpine433&"  />
-</div>
-
-###
+<br/>
+<div align="center" ><img  height="23"  src="https://komarev.com/ghpvc/?username=DarkSpine433&style=for-the-badge"  /></div>
