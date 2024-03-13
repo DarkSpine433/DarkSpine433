@@ -7,10 +7,8 @@
     <img align="right" height="240" src="https://i.pinimg.com/originals/2b/87/8f/2b878fc08878b8673b9a942a8f5fac55.gif"  />
   </span>
     
-
-  
   <span align="left">
-    <h3>Some Info:</h3>
+    <h3>Informations:</h3>
       👨‍💻 My Own Website <a href="https://darkspine.vercel.app" target="_blank">https://darkspine.vercel.app</a>
     <br><br>
       ⚡ Fun fact In addition to programming, I edit videos, exercise and trade
@@ -22,6 +20,7 @@
 ###
 
 <br/>
+
 <h2 align="left">My Knowledge:</h2>
 
 ###
