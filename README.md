@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">📩 How to Contact with me? Just Write To Me on LinkedIn<br><br>👨‍💻 All of my projects are available at <a href="https://darkspine.vercel.app" target="_blank">https://darkspine.vercel.app</a><br><br>⚡ Fun fact In addition to programming, he is involved in editing videos and exercises<br><br>📫 My E-mail: dawidkonopiaty@gmail.com</p>
+<p align="left">📩 How to Contact with me? Just Write To Me on LinkedIn<br><br>👨‍💻 All of my projects are available at <a href="https://darkspine.vercel.app" target="_blank">https://darkspine.vercel.app</a><br><br>⚡ Fun fact In addition to programming, I edit videos, exercise and trade<br><br>📫 My E-mail: dawidkonopiaty@gmail.com</p>
 
 ###
 <br/>
