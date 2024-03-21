@@ -9,7 +9,7 @@
     
   <span align="left">
     <h3>Informations:</h3>
-      👨‍💻 My Own Website <a href="https://darkspine.vercel.app" target="_blank">https://darkspine.vercel.app</a>
+      👨‍💻 My Own Website <a href="https://ds-craft.vercel.app/" target="_blank">https://ds-craft.vercel.app/</a>
     <br><br>
       ⚡ Fun fact In addition to programming, I edit videos, exercise and trade
     <br><br>
