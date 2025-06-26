@@ -9,7 +9,7 @@
     
   <span align="left">
     <h3>Informations:</h3>
-      🔧Currenytly looking for Job🫣
+      🔧 Currently looking for Job🫣
     <br><br>
       👨‍💻 My Own Website <a href="https://ds-craft.vercel.app/" target="_blank">https://ds-craft.vercel.app/</a>
     <br><br>
