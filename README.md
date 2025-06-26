@@ -9,11 +9,11 @@
     
   <span align="left">
     <h3>Informations:</h3>
-      🔧Current Job: <b>🪖Soldier</b>
+      🔧Currenytly looking for Job🫣
     <br><br>
       👨‍💻 My Own Website <a href="https://ds-craft.vercel.app/" target="_blank">https://ds-craft.vercel.app/</a>
     <br><br>
-      ⚡ Fun fact In addition to programming, I edit videos, exercise and trade
+      ⚡ Fun fact In addition to programming, I edit videos, exercise
     <br><br>
       📫 My E-mail: dawidkonopiaty@gmail.com
   </span>
