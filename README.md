@@ -100,4 +100,4 @@
   <br/>
   <h2>✨ ALWAYS STAY POSITIVE ✨</h2>
   <p><i>"The only way to do great work is to love what you do."</i></p>
-  <img src="https://raw.githubusercontent.com/DarkSpine433/DarkSpine433/main/footer.gif" width="100%" /> </div>
+ </div>
