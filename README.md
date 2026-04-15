@@ -12,7 +12,7 @@
   <tr>
     <td width="50%" style="vertical-align: top;">
       <p>
-        I am a passionate <b>Full-stack Developer</b> from Poland 🇵🇱 with a strong focus on building high-performance web applications. I love turning complex problems into simple, beautiful, and intuitive designs.
+        Currently working within the public sector in a role that requires high discretion. Outside of my professional duties, I am a passionate <b>Full-stack Developer</b> from Poland 🇵🇱 with a strong focus on building high-performance web applications. I love turning complex problems into simple, beautiful, and intuitive designs. 
       </p>
       <ul>
         <li>🚀 <b>Learning:</b> Advanced Microservices & Cloud Native Patterns</li>
