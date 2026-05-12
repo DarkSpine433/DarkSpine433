@@ -1,15 +1,4 @@
 
-<br/>
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-dawidkonopiaty%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dawidkonopiaty@gmail.com)&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-DarkSpine433-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DarkSpine433)&nbsp;&nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=DarkSpine433&label=Profile+Views&color=6e5fbd&style=flat-square)](https://github.com/DarkSpine433)
-
-</div>
-
----
 
 ## 👤 About Me
 
@@ -36,8 +25,14 @@ I'm a passionate **Full-stack Developer** from Poland 🇵🇱 with a strong foc
 </td>
 </tr>
 </table>
+<div align="center">
 
----
+[![Gmail](https://img.shields.io/badge/Gmail-dawidkonopiaty%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dawidkonopiaty@gmail.com)&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-DarkSpine433-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DarkSpine433)&nbsp;&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=DarkSpine433&label=Profile+Views&color=6e5fbd&style=flat-square)](https://github.com/DarkSpine433)
+
+</div>
+
 
 ## 🛠️ Tech Stack
 
