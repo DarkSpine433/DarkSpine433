@@ -1,8 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f0c29,50:302b63,100:24243e&text=Dawid%20Konopiaty&fontAlign=50&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Full-stack%20Developer%20%7C%20Tech%20Enthusiast&descAlign=50&descAlignY=58&descColor=a89fc8&descSize=16&animation=fadeIn" width="100%" />
-
-</div>
 
 <br/>
 
@@ -103,12 +98,4 @@ I'm a passionate **Full-stack Developer** from Poland 🇵🇱 with a strong foc
 
 </div>
 
----
 
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f0c29,50:302b63,100:24243e&section=footer" width="100%" />
-
-
-</div>
