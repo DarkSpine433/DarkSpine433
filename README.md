@@ -20,7 +20,7 @@ I'm a passionate **Full-stack Developer** from Poland 🇵🇱 with a strong foc
 </td>
 <td valign="middle" width="40%" align="center">
 
-<img width="320" height="320" alt="avatar" src="https://github.com/user-attachments/assets/60c9355f-cec2-4396-b203-2c998e3b18d8" />
+<img width="300" height="300" alt="avatar" src="https://github.com/user-attachments/assets/60c9355f-cec2-4396-b203-2c998e3b18d8" />
 
 </td>
 </tr>
