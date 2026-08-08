@@ -1,8 +1,9 @@
+# 👨‍💻 About Me
 <table>
 <tr>
 <td valign="top" width="60%">
   
-Passionate **Full-Stack Developer** based in Poland 🇵🇱. Focused on building scalable web applications and turning complex technical problems into clean, intuitive digital experiences.
+Passionate **Developer** based in Poland 🇵🇱. Focused on building scalable web applications and turning complex technical problems into clean, intuitive digital experiences.
 
 | Focus | Details |
 | :--- | :--- |
