@@ -1,18 +1,19 @@
 <table>
 <tr>
 <td valign="top" width="60%">
+  
+### 👨‍💻 About Me
 
-> *Currently working within the public sector in a role that requires high discretion.*
+Passionate **Full-Stack Developer** based in Poland 🇵🇱. Focused on building scalable web applications and turning complex technical problems into clean, intuitive digital experiences.
 
-I'm a passionate **Full-stack Developer** from Poland 🇵🇱 with a strong focus on building high-performance web applications. I love turning complex problems into simple, beautiful, and intuitive designs.
+| Focus | Details |
+| :--- | :--- |
+| 🚀 **Learning** | Advanced Web Architecture, Systems & AI Integration |
+| 💻 **Core Stack** | TypeScript, Next.js, Node.js |
+| 🧠 **Interests** | AI Systems, Performance Optimization & Continuous Growth |
+| 📍 **Location** | Poland 🇵🇱 |
 
-| | |
-|---|---|
-| 🚀 **Learning** | Advanced Microservices & Cloud Native Patterns |
-| 💻 **Current Stack** | TypeScript, Next.js, and Node.js |
-| 🤔 **Interested in** | AI Integration & Constant Improvement |
-| 📍 **Based in** | Poland 🇵🇱 |
-
+<br/>
 </td>
 <td valign="middle" width="40%" align="center">
 
