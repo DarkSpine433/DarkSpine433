@@ -2,18 +2,14 @@
 <tr>
 <td valign="top" width="60%">
   
-### 👨‍💻 About Me
-
 Passionate **Full-Stack Developer** based in Poland 🇵🇱. Focused on building scalable web applications and turning complex technical problems into clean, intuitive digital experiences.
 
 | Focus | Details |
 | :--- | :--- |
-| 🚀 **Learning** | Advanced Web Architecture, Systems & AI Integration |
+| 🚀 **Learning** | Advanced Web Architecture, Systems & </br> AI Integration |
 | 💻 **Core Stack** | TypeScript, Next.js, Node.js |
-| 🧠 **Interests** | AI Systems, Performance Optimization & Continuous Growth |
+| 🧠 **Interests** | AI Systems, Performance Optimization & </br>Continuous Growth |
 | 📍 **Location** | Poland 🇵🇱 |
-
-<br/>
 </td>
 <td valign="middle" width="40%" align="center">
 
